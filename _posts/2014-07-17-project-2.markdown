@@ -4,7 +4,7 @@ modal-id: 2
 date: 2016-10-02
 img: Hadoop+Admin+Level+2.png
 alt: Hadoop Administration Level 2
-project-date: April 2014
+project-date: Oct 2016
 client: Start Bootstrap
 category: Big Data
 description: This badge earner has demonstrated the ability to move data into Hadoop using Sqoop and Flume. The individual can administer and control Hadoop jobs using Oozie as well as understanding the concepts of using ZooKeeper to create distributed applications.
