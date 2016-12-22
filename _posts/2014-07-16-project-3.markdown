@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
-alt: image-alt
+date: 2016-10-03
+img: Hadoop+Data+Access+Level+2.png
+alt: Hadoop Data Access Level 2
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

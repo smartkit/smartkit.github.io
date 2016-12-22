@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
+date: 2016-10-02
+img: Hadoop+Admin+Level+2.png
+alt: Hadoop Administration Level 2
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
