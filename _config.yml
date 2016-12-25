@@ -1,9 +1,9 @@
 # Site settings
-title: SMARTKIT.INFO
+title: "Delight in big data consulting."
 email: contact@smartkit.info
 url: https://smartkit.github.io
 description: "SMARTKIT.INFO"
-skills: "Delight in big data consulting."
+skills: SMARTKIT.INFO
 meta_author: yangbo zhou
 
 # Google webmaster tools
@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: yangboz
+  copyright: SMARTKIT.INFO
   location: Beijing
   social: Around the Web
   credits: SMARTKIT.INFO Credits
