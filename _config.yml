@@ -41,18 +41,18 @@ social:
   - title: twitter
     url: http://twitter.com/smartkit
   - title: facebook
-    url: http://facebook.com/smartkit
+    url: https://www.facebook.com/smartkit.info/
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/smartkit
-  - title: bitbucket
-    url: http://bitbucket.org/smartkit
+    url: http://stackoverflow.com/jobs/companies/smartkitinfo
+  - title: linkedIn
+    url: https://www.linkedin.com/company-beta/13271658/
   - title: github
     url: http://github.com/smartkit
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: No.1 Yard
-  - line: Xiangshan Road, Beijinf 100094
+  - line: Room 0403, Unit A, building No.24,Beiqing Road Haidian District, Beijing City
+  - line: China +86 01052870868
 
 # Credits content
 credits: 'SMARTKIT.INFO website based on(Freelancer) is a free to use, open source Bootstrap theme.'
